@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarenJParker77
 - 👀 I’m interested in learning more about all of this!
-- 🌱 I’m currently software devlopment with the Jump Digital School
+- 🌱 I’m currently software development with the Jump Digital School
 
 
 <!--- 💞️ I’m looking to collaborate on ...
