@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarenJParker77
 - 👀 I’m interested in understanding more about all of this!
-- 🌱 I’m currently learning software development with the Jump Digital School
+- 🌱 I’ve just graduated from a 30-week part-time software development course with the Jump Digital School
 
 
 <!--- 💞️ I’m looking to collaborate on ...
